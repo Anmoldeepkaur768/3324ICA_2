@@ -20,7 +20,7 @@ spec:
         - name: WORDPRESS_DB_HOST
           value: mariadb.mariadb.svc.cluster.local
         - name: WORDPRESS_DB_PASSWORD
-          value: navjot123
+          value: anmol123
         - name: WORDPRESS_DB_NAME
           value: wordpress
         - name: WORDPRESS_DB_USER
